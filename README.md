@@ -1,6 +1,6 @@
 ### Oh, hello there 👋
 
-<img src="SparkyWFH-01.png" align="right" width="300px"></img>
+<img src="https://raw.githubusercontent.com/samtstern/samtstern/master/SparkyWFH-01.png" align="right" width="300px"></img>
 
 I'm Sam, from 🔥 [Firebase](https://firebase.google.com/) 🔥 and I basically live on GitHub.
 
