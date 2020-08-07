@@ -7,5 +7,5 @@ I'm Sam, from 🔥 [Firebase](https://firebase.google.com/) 🔥 and I basically
 If you don't know me, I ...
 
  - 🌍 Used to be in San Francisco, now I'm in London
- - 🙊 Secretly love writing JavaScript (well, TypeScript)
+ - 🙊 Started out on Android, now I secretly enjoy writing JavaScript (well, TypeScript)
  - 👩‍💻 Love talking to developers on GitHub
